@@ -5,7 +5,3 @@
 p {
   color: blue;
 }
-
-.btn-primary + .btn-primary {
-  margin-left: 8px;
-}
